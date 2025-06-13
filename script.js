@@ -20,5 +20,5 @@ function moveButtonRandomly() {
 button.addEventListener("mouseenter", moveButtonRandomly);
 
 button.addEventListener("click", () => {
-  alert("Envoie ton vœu au 06 49 31 19 50 pour qu’il soit exaucé ");
+  alert("Envoie ton vœu au 07 38 42 52 10 pour qu’il soit exaucé ");
 });
